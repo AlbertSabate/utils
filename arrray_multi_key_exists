@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Función que utiliza array_key_exists con un array de keys en vez de un único key.
  * 
