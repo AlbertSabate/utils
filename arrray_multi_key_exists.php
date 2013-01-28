@@ -24,3 +24,5 @@ function array_multi_key_exists(array $arrKeys, array $array, /* variable usada 
 
     return $result;
 }
+
+?>
